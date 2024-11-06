@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🔭 We (Barana/Bɑːrɑːnɑː/ Software) provide software product development and consultancy services. See @baranasoftware for more details. 
+🔭 We (Barana/Bɑːrɑːnɑː/ Software) provide software product development and consultancy services. See [@baranasoftware](https://github.com/baranasoftware) for more details. 
 
 <!--
 
